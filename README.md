@@ -21,7 +21,7 @@ Bei der Lektüre von Projekt- und Bachelorarbeiten fallen mir regelmäßig ident
 - Dinge, die ich im Internet oder sonstwo nachlesen kann sind für Ihre Arbeit nicht wichtig. 70% der Seiten für Wiedergabe bekannter Sachverhalte und 30% für die eigene Leistung sind bestenfalls eine Drei. Andersrum (70% eigene Leistung und 30% Einleitung/Schluss) ist es angemessen.  
 - Am Ende muss der Text nochmal bluten. Gehen Sie kritisch an Ihr Werk und fragen Sie, ob das was Sie gerade lesen wirklich in Ihrer Arbeit stehen muss. (Siehe auch "Sätze wie Hammerschläge")
 
-
 # Quellen
 - Seiten wie "ip-insider.de" und "security-insider.de" sind reine Werbung. Damit fallen sie als Quellen aus. Prüfen Sie Ihre Quellen.
-- Sekundärliteratur ist doof. Wenn Sie zu Grundlagen des Internet zitieren, nehmen Sie doch einfach mal die Dokumente der IETF und nicht das "Elektronik Kompendium".
+- Sekundärliteratur ist doof. Wenn Sie zu Grundlagen des Internet zitieren, nehmen Sie doch einfach mal die Dokumente der IETF und nicht das "Elektronik Kompendium".- - Behauptungen ("50% aller Unternehmen wurden bereits Opfer einer Cyber-Attacke...")  bleiben einfach nur Behauptungen wenn sie nicht durch eine Quelle hinterlegt sind.
+- Führen Sie nur Fakten aus Quellen an, die Sie auch verstanden haben. Wenn Ihnen etwas unklar ist, fragen Sie bei Ihrem betrieblichen Betreuer (oder mir, falls ich Ihr Betreuer von Seiten der Hochschule bin) nach.
