@@ -10,7 +10,7 @@ Bei der Lektüre von Projekt- und Bachelorarbeiten fallen mir regelmäßig ident
 - Sollten nicht als JPG vorliegen, denn das erhöht die Gefahr durch zu starke Kompression Details zu verlieren. Versuchen Sie es mit PNG oder noch besser einem Vektorformat wie SVG. Bei selbst erstellten Grafiken haben Sie das ja in der Hand.
 - Codeschnipsel sollten nicht als Grafiken eingefügt werden. Screenshots sind dafür gänzlich ungeeignet. Versuchen Sie es mit einer Hervorhebung durch entsprechende Formatierung.
 - Auch "vom Internet inspirierte" Grafiken müssen mit Quellenangaben versehen werden. Die Idee einer Grafik mit anderen Icons zu realisieren ist nicht gut. 
-- Die Sprache des Ingenieurs ist die Zeichnung. Quellcode wird mit einem Flussdiagramm viel verständlicher. Das gilt auch für Prozessschritte. Auch Interaktion zwischen Komponenten einer Schaltung / eines Softwarepakets lassen sich durch ein Diagramm ohne viele Worte darstellen.
+- Die Sprache des Ingenieurs ist die Zeichnung. Quellcode wird mit einem Flussdiagramm viel verständlicher. Das gilt auch für Prozessschritte. Auch Interaktionen zwischen Komponenten einer Schaltung / eines Softwarepakets lassen sich durch ein Diagramm ohne viele Worte darstellen.
 
 # Rechtschreibung und Grammatik
 - Für eine Eins müssen Rechtschreibung und Grammatik fehlerfrei sein. Keine Sorge, dafür gibt es Hilfsmittel in Word, die Sie einfach nur anschalten müssen. 
