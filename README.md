@@ -3,7 +3,9 @@
 Bei der Lektüre von Projekt- und Bachelorarbeiten fallen mir regelmäßig identische Sachverhalte auf. Daher möchte ich an dieser Stelle eine kleine Zusammenstellung (ohne Anspruch auf Vollständigkeit) von Hinweisen zur Erstellung solcher Arbeiten geben.
 
 # Bewertungsblatt
+- Die Arbeit ist eine Prüfungsleistung, die durch die Hochschule zu benoten ist.
 - Lesen Sie die linke Spalte des Bewertungsblattes. Dort sind die einzelnen Punkte aufgezählt, die für die Bewertung maßgeblich sind. Auch wenn Ihr betrieblicher Betreuer sagt, dass Sie etwas anderes tun sollten ("lassen Sie mal die kritische Bewertung weg..."): nein.
+- Ich setze meine Unterschrift in der Eigenschaft als Angehöriger der Hochschule unter das Bewertungsblatt und stehe damit für die Korrektheit der Benotung entsprechend der Punkte auf dem Bewertungsblatt.
 
 # Grafiken
 - Benötigen eine Auflösung von mindestens 300dpi um für den Druck geeignet zu sein.
