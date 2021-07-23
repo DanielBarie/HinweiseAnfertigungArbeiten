@@ -42,5 +42,9 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
 # Abwesenheiten und Urlaub
 - Die Erstellung der Bachelorarbeit fällt in die Sommerzeit. Da kann es schon passieren, dass Betreuer und Ansprechpartner im Urlaub sind. Lassen Sie also einen Puffer für solche Fälle.
 
+# offensichtlicher Unsinn
+- Führt zu Abzügen in der Benotung. 
+- Als Beispiel (umschrieben, um niemanden an den Pranger zu stellen, der Sinn ist aber erhalten): "Wir implementieren keine Verschlüsselung und wechselseitige Authentifizierung der Kommunikationspartner weil das eine Neuzulassung unseres Produkts verursacht." Das war in einer Arbeit, die sich mit IT-Sicherheit beschäftigt hat. Geht's noch??? 
+
 # Formalitäten
 - Alles, was Sie an formalen Voraussetzungen (Anzahl Exemplare,...) wissen müssen, steht unter https://www.dhge.de/DHGE/Fuer_Studierende/Hinweise-zur-Anfertigung-von-Arbeiten.html (s.o.)
