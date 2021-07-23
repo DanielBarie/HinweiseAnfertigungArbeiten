@@ -21,7 +21,7 @@ Bei der Lektüre von Projekt- und Bachelorarbeiten fallen mir regelmäßig ident
 - Sätze wie Hammerschläge. Was meine ich damit? Lassen Sie Füllwörter weg. Jeder Satz sollte eine wichtige Aussage beinhalten. Wenn nicht, ist er überflüssig und kann gestrichen werden.
 
 # Argumentationsketten
-- Ein bewährtes Schema ist der Dreiklang aus "Darstellen", "Bewerten" und "Folgern". Was soll das bedeuten? Am Beispiel einer Modellbildung:  Darstellen ("das Modell ist linear und hat nur die Widerstandswerte der Heißleiter als Eingangsgrößen") - Bewerten ("das ist doof, weil wir weder Geometrie noch Zeiteinflüsse abbilden" - Folgern ("das müssen wir anders machen, ich habe da eine Lösung in dieser Arbeit").
+- Ein bewährtes Schema ist der Dreiklang aus "Darstellen", "Bewerten" und "Folgern". Was soll das bedeuten? Am Beispiel einer Modellbildung:  Darstellen ("das Modell ist linear und hat nur die Widerstandswerte der Heißleiter als Eingangsgrößen") - Bewerten ("weil wir weder Geometrie noch Zeiteinflüsse abbilden ist das doof" - Folgern ("das müssen wir anders machen, ich habe da eine Lösung in dieser Arbeit").
 - Mit diesem Dreiklang vermeiden Sie, dass Sie zuerst etwas schreiben und dann die Begründung dafür kommt. Da fühle ich mich als Leser irgendwie nicht so richtig wohl, weil ich mir immer denke "jetzt hat er/sie sich noch 'ne Begründung dazugebastelt..". Und üblicherweise ist es ja so, dass man ein Problem hat (das wird im "Darstellen" beschrieben), dann denkt man sich seinen Teil zu möglichen Lösungen ("Bewerten") und kommt dann zu einer guten Lösung ("Folgern").
 
 # Einordnung
