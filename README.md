@@ -3,7 +3,7 @@
 Bei der Lektüre von Projekt- und Bachelorarbeiten fallen mir regelmäßig identische Sachverhalte auf. Daher möchte ich an dieser Stelle eine kleine Zusammenstellung (ohne Anspruch auf Vollständigkeit) von Hinweisen zur Erstellung solcher Arbeiten geben.
 
 # Bewertungsblatt
-- Die Arbeit ist eine Prüfungsleistung, die durch die Hochschule zu benoten ist.
+- Die Arbeit ist eine Prüfungsleistung, die durch die Hochschule zu benoten ist. Das ist Voraussetzung dafür, dass Ihr Studiengang akkreditiert ist (und Sie einen Abschluss erhalten).
 - Lesen Sie die linke Spalte des Bewertungsblattes. Dort sind die einzelnen Punkte aufgezählt, die für die Bewertung maßgeblich sind. Auch wenn Ihr betrieblicher Betreuer sagt, dass Sie etwas anderes tun sollten ("lassen Sie mal die kritische Bewertung weg..."): nein.
 - Ich setze meine Unterschrift in der Eigenschaft als Angehöriger der Hochschule unter das Bewertungsblatt und stehe damit für die Korrektheit der Benotung entsprechend der Punkte auf dem Bewertungsblatt.
 
@@ -39,3 +39,6 @@ Bei der Lektüre von Projekt- und Bachelorarbeiten fallen mir regelmäßig ident
 
 # Abwesenheiten und Urlaub
 - Die Erstellung der Bachelorarbeit fällt in die Sommerzeit. Da kann es schon passieren, dass Betreuer und Ansprechpartner im Urlaub sind. Lassen Sie also einen Puffer für solche Fälle.
+
+# Formalitäten
+- Alles, was Sie an formalen Voraussetzungen (Anzahl Exemplare,...) wissen müssen, steht unter https://www.dhge.de/DHGE/Fuer_Studierende/Hinweise-zur-Anfertigung-von-Arbeiten.html
