@@ -13,6 +13,7 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
 - Benötigen eine Auflösung von mindestens 300dpi um für den Druck geeignet zu sein.
 - Sollten nicht als JPG vorliegen, denn das erhöht die Gefahr durch zu starke Kompression Details zu verlieren. Versuchen Sie es mit PNG oder noch besser einem Vektorformat wie SVG. Bei selbst erstellten Grafiken haben Sie das ja in der Hand.
 - Codeschnipsel sollten nicht als Grafiken eingefügt werden. Screenshots sind dafür gänzlich ungeeignet. Versuchen Sie es mit einer Hervorhebung durch entsprechende Formatierung.
+  - Um Syntax-Highlighting in Word zu realisieren, kann diese beispielsweise sehr gut [aus Notepad++ übernommen werden](https://superuser.com/a/39600/1239582) 
 - Auch "vom Internet inspirierte" Grafiken müssen mit Quellenangaben versehen werden. Die Idee einer Grafik mit anderen Icons zu realisieren ist nicht gut. 
 - Die Sprache des Ingenieurs ist die Zeichnung. Quellcode wird mit einem Flussdiagramm viel verständlicher. Das gilt auch für Prozessschritte. Auch Interaktionen zwischen Komponenten einer Schaltung / eines Softwarepakets lassen sich durch ein Diagramm ohne viele Worte darstellen.
 
