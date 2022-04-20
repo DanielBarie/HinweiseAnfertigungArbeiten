@@ -23,6 +23,7 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
 - Die Ich-Form ist sehr, sehr unüblich.
 - Sätze wie Hammerschläge. Was meine ich damit? Lassen Sie Füllwörter weg. Jeder Satz sollte eine wichtige Aussage beinhalten. Wenn nicht, ist er überflüssig und kann gestrichen werden.
 - Abkürzungen: Begriffe schreiben Sie bei der ersten Erwähnung aus und stellen die Abkürzung danach in Klammern. Zusätzlich nehmen Sie die Abkürzung in der Abkürzungsverzeichnis auf. ("Das Internet Protocol (IP)...."). Damit hat der Leser bei der Lektüre die Abkürzung vor Augen. Falls er sie trotzdem bis zur nächsten Erwähnung vergessen haben sollte gibt es das Abkürzungsverzeichnis zum Nachschlagen.
+- Prüfen Sie auf Vergangenheitsformen ("dann muss ... erledigt werden..."): Wenn Sie diese finden ist das oft ein Hinweis auf einen Erzählstil. Das ist für eine wissenschaftliche Arbeit auch sehr unüblich. Also weg damit. Lieber eine Darstellung der Herausforderungen und dann können Sie erklären, wie Sie diese überwunden haben. Das ist ja Ihre Leistung.
 
 # Argumentationsketten
 - Ein bewährtes Schema ist der Dreiklang aus "Darstellen", "Bewerten" und "Folgern". Was soll das bedeuten? Am Beispiel einer Modellbildung:  Darstellen ("das Modell ist linear und hat nur die Widerstandswerte der Heißleiter als Eingangsgrößen") - Bewerten ("weil wir weder Geometrie noch Zeiteinflüsse abbilden ist das doof" - Folgern ("das müssen wir anders machen, ich habe da eine Lösung in dieser Arbeit").
