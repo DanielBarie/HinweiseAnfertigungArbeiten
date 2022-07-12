@@ -38,8 +38,10 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
 
 # Quellen
 - Seiten wie "ip-insider.de" und "security-insider.de" sind reine Werbung. Damit fallen sie als Quellen aus. Prüfen Sie Ihre Quellen.
-- Sekundärliteratur ist doof. Wenn Sie zu Grundlagen des Internet zitieren, nehmen Sie doch einfach mal die Dokumente der IETF und nicht das "Elektronik Kompendium".- - Behauptungen ("50% aller Unternehmen wurden bereits Opfer einer Cyber-Attacke...")  bleiben einfach nur Behauptungen wenn sie nicht durch eine Quelle hinterlegt sind.
+- Sekundärliteratur ist doof. Wenn Sie zu Grundlagen des Internet zitieren, nehmen Sie doch einfach mal die Dokumente der IETF und nicht das "Elektronik Kompendium".- 
+- Behauptungen ("50% aller Unternehmen wurden bereits Opfer einer Cyber-Attacke...")  bleiben einfach nur Behauptungen wenn sie nicht durch eine Quelle hinterlegt sind.
 - Führen Sie nur Fakten aus Quellen an, die Sie auch verstanden haben. Wenn Ihnen etwas unklar ist, fragen Sie bei Ihrem betrieblichen Betreuer (oder mir, falls ich Ihr Betreuer von Seiten der Hochschule bin) nach.
+- Wenn Sie schon nicht in die Bibliothek zur Suche von Büchern gehen wollen: Verwenden Sie doch bitte nicht die normale Google Suche. Es gibt eine [Spezialsuche für wissenschaftliche Arbeiten von Google](https://scholar.google.de). Dann bleibt so ein Unsinn wie xxx-insider.de außen vor.
 
 # Abwesenheiten und Urlaub
 - Die Erstellung der Bachelorarbeit fällt in die Sommerzeit. Da kann es schon passieren, dass Betreuer und Ansprechpartner im Urlaub sind. Lassen Sie also einen Puffer für solche Fälle.
@@ -49,4 +51,4 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
 - Als Beispiel (umschrieben, um niemanden an den Pranger zu stellen, der Sinn ist aber erhalten): "Wir implementieren keine Verschlüsselung und wechselseitige Authentifizierung der Kommunikationspartner weil das eine Neuzulassung unseres Produkts verursacht." Das war in einer Arbeit, die sich mit IT-Sicherheit beschäftigt hat. Geht's noch??? 
 
 # Formalitäten
-- Alles, was Sie an formalen Voraussetzungen (Anzahl Exemplare,...) wissen müssen, steht unter https://www.dhge.de/DHGE/Fuer_Studierende/Hinweise-zur-Anfertigung-von-Arbeiten.html (s.o.)
+- Alles, was Sie an formalen Voraussetzungen (Anzahl Exemplare,...) wissen müssen, ist auf den [Seiten der DHGE zur Anfertigung von Arbeiten](https://www.dhge.de/DHGE/Fuer_Studierende/Hinweise-zur-Anfertigung-von-Arbeiten.html) zu finden.
