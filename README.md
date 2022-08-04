@@ -23,7 +23,7 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
 - Die Ich-Form ist sehr, sehr unüblich.
 - Sätze wie Hammerschläge. Was meine ich damit? Lassen Sie Füllwörter weg. Jeder Satz sollte eine wichtige Aussage beinhalten. Wenn nicht, ist er überflüssig und kann gestrichen werden.
 - Abkürzungen: Begriffe schreiben Sie bei der ersten Erwähnung aus und stellen die Abkürzung danach in Klammern. Zusätzlich nehmen Sie die Abkürzung in der Abkürzungsverzeichnis auf. ("Das Internet Protocol (IP)...."). Damit hat der Leser bei der Lektüre die Abkürzung vor Augen. Falls er sie trotzdem bis zur nächsten Erwähnung vergessen haben sollte gibt es das Abkürzungsverzeichnis zum Nachschlagen.
-- Prüfen Sie auf Vergangenheitsformen ("dann muss ... erledigt werden..."): Wenn Sie diese finden ist das oft ein Hinweis auf einen Erzählstil. Das ist für eine wissenschaftliche Arbeit auch sehr unüblich. Also weg damit. Lieber eine Darstellung der Herausforderungen und dann können Sie erklären, wie Sie diese überwunden haben. Das ist ja Ihre Leistung.
+- Prüfen Sie auf Vergangenheitsformen ("dann musste ... erledigt werden..."): Wenn Sie diese finden ist das oft ein Hinweis auf einen Erzählstil. Das ist für eine wissenschaftliche Arbeit auch sehr unüblich. Also weg damit. Lieber eine Darstellung der Herausforderungen und dann können Sie erklären, wie Sie diese überwunden haben. Das ist ja Ihre Leistung.
 
 # Argumentationsketten
 - Ein bewährtes Schema ist der Dreiklang aus "Darstellen", "Bewerten" und "Folgern". Was soll das bedeuten? Am Beispiel einer Modellbildung:  Darstellen ("das Modell ist linear und hat nur die Widerstandswerte der Heißleiter als Eingangsgrößen") - Bewerten ("weil wir weder Geometrie noch Zeiteinflüsse abbilden ist das doof" - Folgern ("das müssen wir anders machen, ich habe da eine Lösung in dieser Arbeit").
@@ -37,9 +37,9 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
 - Am Ende muss der Text nochmal bluten. Gehen Sie kritisch an Ihr Werk und fragen Sie, ob das was Sie gerade lesen wirklich in Ihrer Arbeit stehen muss. (Siehe auch "Sätze wie Hammerschläge")
 
 # Quellen
-- Seiten wie "ip-insider.de" und "security-insider.de" sind reine Werbung. Damit fallen sie als Quellen aus. Prüfen Sie Ihre Quellen.
+- Seiten wie "ip-insider.de" und "security-insider.de" sind reine Werbung (schauen Sie mal ins Impressum). Damit fallen sie als Quellen aus. Prüfen Sie Ihre Quellen.
 - Sekundärliteratur ist doof. Wenn Sie zu Grundlagen des Internet zitieren, nehmen Sie doch einfach mal die Dokumente der IETF und nicht das "Elektronik Kompendium".- 
-- Behauptungen ("50% aller Unternehmen wurden bereits Opfer einer Cyber-Attacke...")  bleiben einfach nur Behauptungen wenn sie nicht durch eine Quelle hinterlegt sind.
+- Behauptungen ("50% aller Unternehmen wurden bereits Opfer einer Cyber-Attacke...") bleiben einfach nur Behauptungen wenn sie nicht durch eine Quelle hinterlegt sind.
 - Führen Sie nur Fakten aus Quellen an, die Sie auch verstanden haben. Wenn Ihnen etwas unklar ist, fragen Sie bei Ihrem betrieblichen Betreuer (oder mir, falls ich Ihr Betreuer von Seiten der Hochschule bin) nach.
 - Wenn Sie schon nicht in die Bibliothek zur Suche von Büchern gehen wollen: Verwenden Sie doch bitte nicht die normale Google Suche. Es gibt eine [Spezialsuche für wissenschaftliche Arbeiten von Google](https://scholar.google.de). Dann bleibt so ein Unsinn wie xxx-insider.de außen vor.
 
@@ -55,4 +55,4 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
 
 # Verlängerung
 Die Bachelorarbeit fertigen Sie kurz vor dem Ende Ihres Studiums an. Die Betonung liegt auf kurz. Was passiert, wenn sich die Bearbeitung des Themas verzögert, können Sie sich ja vorstellen. Eine Verlängerung der Bearbeitungszeit ist daher nicht vorgesehen.   
-Ggfs. (z.B. aus gesundheitlichen Gründen) kann eine Verlängerung dennoch gewährt werden. Dafür ist ein vom betrieblichen Betreuer unterzeichnetes Schreiben (keine reine Mail, kann aber gescannt und vorab per Mail gesendet werden) an den Studienrichtungsleiter erforderlich. Und bitte: Stichhaltige Gründe. Sowas nach dem Motto "die Hardware kam halt nicht..." reicht nicht aus.
+Ggfs. (z.B. aus gesundheitlichen Gründen) kann eine Verlängerung dennoch gewährt werden. Dafür ist ein vom betrieblichen Betreuer unterzeichnetes Schreiben (keine reine Mail, kann aber gescannt und vorab per Mail gesendet werden) an den Studienrichtungsleiter erforderlich. Und bitte: Stichhaltige Gründe. Sowas nach dem Motto "die Hardware kam halt nicht..." reicht nicht aus. Und denken Sie an die Urlaubszeit!
