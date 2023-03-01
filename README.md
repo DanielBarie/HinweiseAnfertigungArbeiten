@@ -16,6 +16,7 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
   - Um Syntax-Highlighting in Word zu realisieren, kann diese beispielsweise sehr gut [aus Notepad++ übernommen werden](https://superuser.com/a/39600/1239582) 
 - Auch "vom Internet inspirierte" Grafiken müssen mit Quellenangaben versehen werden. Die Idee einer Grafik mit anderen Icons zu realisieren ist nicht gut. 
 - Die Sprache des Ingenieurs ist die Zeichnung. Quellcode wird mit einem Flussdiagramm viel verständlicher. Das gilt auch für Prozessschritte. Auch Interaktionen zwischen Komponenten einer Schaltung / eines Softwarepakets lassen sich durch ein Diagramm ohne viele Worte darstellen.
+- Screenshots haben bei den heutigen Anzeigen mit hoher Auflösung die Angewohnheit recht kleine Schriftbilder aufzuweisen. Das ist dann schwer lesbar. Und noch schwerer lesbar sind die beknackten Dark Mode Screenshots. Himmel. Nur weil etwas hip ist, heißt das nicht, dass es gut ist. Stellen Sie für Screenshots doch bitte größere Schift unter Windows ein und machen Sie den Dark Mode aus.
 
 # Rechtschreibung und Grammatik
 - Für eine Eins müssen Rechtschreibung und Grammatik fehlerfrei sein. Keine Sorge, dafür gibt es Hilfsmittel in Word, die Sie einfach nur anschalten müssen. 
@@ -42,6 +43,7 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
 - Behauptungen ("50% aller Unternehmen wurden bereits Opfer einer Cyber-Attacke...") bleiben einfach nur Behauptungen wenn sie nicht durch eine Quelle hinterlegt sind.
 - Führen Sie nur Fakten aus Quellen an, die Sie auch verstanden haben. Wenn Ihnen etwas unklar ist, fragen Sie bei Ihrem betrieblichen Betreuer (oder mir, falls ich Ihr Betreuer von Seiten der Hochschule bin) nach.
 - Wenn Sie schon nicht in die Bibliothek zur Suche von Büchern gehen wollen: Verwenden Sie doch bitte nicht die normale Google Suche. Es gibt eine [Spezialsuche für wissenschaftliche Arbeiten von Google](https://scholar.google.de). Dann bleibt so ein Unsinn wie xxx-insider.de außen vor.
+- Verdammt nochmal, fangen Sie doch bei der Einleitung direkt mit Quellenarbeit an. Gerade dort. Da schreiben Sie ja in den seltensten Fällen irgendwas Neues (das von Ihnen stammt). Insofern muss da quasi jeder Satz mit einer Quellenangabe hinterlegt sein (oder zumindest jede Aussage, die sich ggfs. ja auch auf mehrere Sätze verteilen kann).
 
 # Abwesenheiten und Urlaub
 - Die Erstellung der Bachelorarbeit fällt in die Sommerzeit. Da kann es schon passieren, dass Betreuer und Ansprechpartner im Urlaub sind. Lassen Sie also einen Puffer für solche Fälle.
