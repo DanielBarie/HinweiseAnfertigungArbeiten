@@ -17,6 +17,7 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
 - Auch "vom Internet inspirierte" Grafiken müssen mit Quellenangaben versehen werden. Die Idee einer Grafik mit anderen Icons zu realisieren ist nicht gut. 
 - Die Sprache des Ingenieurs ist die Zeichnung. Quellcode wird mit einem Flussdiagramm viel verständlicher. Das gilt auch für Prozessschritte. Auch Interaktionen zwischen Komponenten einer Schaltung / eines Softwarepakets lassen sich durch ein Diagramm ohne viele Worte darstellen.
 - Screenshots haben bei den heutigen Anzeigen mit hoher Auflösung die Angewohnheit recht kleine Schriftbilder aufzuweisen. Das ist dann schwer lesbar. Und noch schwerer lesbar sind die beknackten Dark Mode Screenshots. Himmel. Nur weil etwas hip ist, heißt das nicht, dass es gut ist. Stellen Sie für Screenshots doch bitte größere Schift unter Windows ein und machen Sie den Dark Mode aus.
+- Bei Screenshots dürfen Sie ruhig die relevanten Bereiche kennzeichnen (Box drum, am besten in Farbe). Oder den relevanten Bereich nochmals "zoomen".
 
 # Rechtschreibung und Grammatik
 - Für eine Eins müssen Rechtschreibung und Grammatik fehlerfrei sein. Keine Sorge, dafür gibt es Hilfsmittel in Word, die Sie einfach nur anschalten müssen. 
