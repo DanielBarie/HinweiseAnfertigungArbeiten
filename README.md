@@ -46,6 +46,9 @@ Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von P
 - Wenn Sie schon nicht in die Bibliothek zur Suche von Büchern gehen wollen: Verwenden Sie doch bitte nicht die normale Google Suche. Es gibt eine [Spezialsuche für wissenschaftliche Arbeiten von Google](https://scholar.google.de). Dann bleibt so ein Unsinn wie xxx-insider.de außen vor.
 - Verdammt nochmal, fangen Sie doch bei der Einleitung direkt mit Quellenarbeit an. Gerade dort. Da schreiben Sie ja in den seltensten Fällen irgendwas Neues (das von Ihnen stammt). Insofern muss da quasi jeder Satz mit einer Quellenangabe hinterlegt sein (oder zumindest jede Aussage, die sich ggfs. ja auch auf mehrere Sätze verteilen kann).
 
+# Fußnoten
+- Doppelte Fußnoten am Ende eines Satzes fassen wir zu einer einzigen zusammen.
+
 # Abwesenheiten und Urlaub
 - Die Erstellung der Bachelorarbeit fällt in die Sommerzeit. Da kann es schon passieren, dass Betreuer und Ansprechpartner im Urlaub sind. Lassen Sie also einen Puffer für solche Fälle.
 
