@@ -17,7 +17,8 @@ Bei schlampiger Arbeit (Quellen / Abbildungen / dumme Ideen) helfen Ihnen die To
 - Benötigen eine Auflösung von mindestens 300dpi um für den Druck geeignet zu sein.
 - Sollten nicht als JPG vorliegen, denn das erhöht die Gefahr durch zu starke Kompression Details zu verlieren. Versuchen Sie es mit PNG oder noch besser einem Vektorformat wie SVG. Bei selbst erstellten Grafiken haben Sie das ja in der Hand.
 - Codeschnipsel sollten nicht als Grafiken eingefügt werden. Screenshots sind dafür gänzlich ungeeignet. Versuchen Sie es mit einer Hervorhebung durch entsprechende Formatierung.
-  - Um Syntax-Highlighting in Word zu realisieren, kann diese beispielsweise sehr gut [aus Notepad++ übernommen werden](https://superuser.com/a/39600/1239582) 
+  - Um Syntax-Highlighting in Word zu realisieren, kann diese beispielsweise sehr gut [aus Notepad++ übernommen werden](https://superuser.com/a/39600/1239582)
+  - Alternativ gibt es (danke an einen Studenten!) auch highlight.me als Webdienst. 
 - Auch "vom Internet inspirierte" Grafiken müssen mit Quellenangaben versehen werden. Die Idee einer Grafik mit anderen Icons zu realisieren ist nicht gut. 
 - Die Sprache des Ingenieurs ist die Zeichnung. Quellcode wird mit einem Flussdiagramm viel verständlicher. Das gilt auch für Prozessschritte. Auch Interaktionen zwischen Komponenten einer Schaltung / eines Softwarepakets lassen sich durch ein Diagramm ohne viele Worte darstellen.
 - Screenshots haben bei den heutigen Anzeigen mit hoher Auflösung die Angewohnheit recht kleine Schriftbilder aufzuweisen. Das ist dann schwer lesbar. Und noch schwerer lesbar sind die beknackten Dark Mode Screenshots. Himmel. Nur weil etwas hip ist, heißt das nicht, dass es gut ist. Stellen Sie für Screenshots doch bitte größere Schift unter Windows ein und machen Sie den Dark Mode aus.
