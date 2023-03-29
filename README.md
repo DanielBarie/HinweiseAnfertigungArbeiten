@@ -5,8 +5,14 @@ Bei der Lektüre von Projekt- und Bachelorarbeiten fallen mir regelmäßig ident
 Vorweg der Verweis auf die Seite der DHGE mit den Hinweisen zur Erstellung von Projekt-/Studien-/Bachelorarbeiten: https://www.dhge.de/DHGE/Fuer_Studierende/Hinweise-zur-Anfertigung-von-Arbeiten.html.
 
 # AI / KI Tools
-Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Diese Werkzeuge werden Ihre Arbeit nicht für Sie schreiben. Aber wahrscheinlich wird Ihr Text dadurch besser. z.B. weil Sie damit die Trümmerbrüche von Sätzen, die ich manchmal sehe, umformulieren können. Oder die Kommasetzung deutlich verbessern. Oder oder oder... im Endeffekt sind das Werkzeuge wie ein Taschenrechner oder die Rechtschreibkorrektur von Word. Die geistige Leistung muss noch immer von Ihnen kommen. Aber Sie können sich auch das wichtige (Ihre Ideen) konzentrieren. Hinweis: Kollegen mögen das vielleicht anders sehen...
-Bei schlampiger Arbeit (Quellen / Abbildungen / dumme Ideen) helfen Ihnen die Tools auch nicht weiter. Deswegen ist auch die Quellenarbeit so wichtig!
+Aus meiner Sicht: Nutzen Sie die AI / KI Tools. 
+- Diese Werkzeuge werden Ihre Arbeit nicht für Sie schreiben. Aber wahrscheinlich wird Ihr Text dadurch besser. z.B. weil Sie damit die Trümmerbrüche von Sätzen, die ich manchmal sehe, umformulieren können. Oder die Kommasetzung deutlich verbessern. Oder oder oder... im Endeffekt sind das Werkzeuge wie ein Taschenrechner oder die Rechtschreibkorrektur von Word. 
+- Die geistige Leistung muss noch immer von Ihnen kommen. Aber Sie können sich auch das wichtige (Ihre Ideen) konzentrieren. Hinweis: Kollegen mögen das vielleicht anders sehen...
+- Bei schlampiger Arbeit (Quellen / Abbildungen / dumme Ideen) helfen Ihnen die Tools auch nicht weiter. Deswegen ist auch die Quellenarbeit so wichtig!
+- Aber *VORSICHT*: Hier ist mal ein Beispiel, warum Sie bei der Benutzung aufpassen müssen (und das Denken und die Verantwortung bei Ihnen bleiben):  
+
+  ![ChatGPT trifft auf Koaxkabel](chatgpt_coax.png "ChatGPT trifft auf Koaxkabel...")
+
 
 # Bewertungsblatt
 - Die Arbeit ist eine Prüfungsleistung, die durch die Hochschule zu benoten ist. Das ist Voraussetzung dafür, dass Ihr Studiengang akkreditiert ist (und Sie einen Abschluss erhalten).
