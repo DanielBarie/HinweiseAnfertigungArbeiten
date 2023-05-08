@@ -12,7 +12,16 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
 - Aber *VORSICHT*: Hier ist mal ein Beispiel, warum Sie bei der Benutzung aufpassen müssen (und das Denken und die Verantwortung bei Ihnen bleiben):  
 
   ![ChatGPT trifft auf Koaxkabel](chatgpt_coax.png "ChatGPT trifft auf Koaxkabel...")
-
+- Die Tools helfen auch bei der Quellenarbeit (dazu auch c't 11/23, S. 118 ff. über wiso-net.de zugänglich aus dem Hochschulnetz):  
+ 
+  - [Semantic Scholar](https://semanticscholar.org/me/research): Hilft bei der Suche von Quellen.  
+  
+  - [Research Rabbit](https://www.researchrabbit.ai): Metasuche unter Einsatz mehrerer Suchmaschinen. Quellensammlungen erstellen. Visuelle Darstellung der Zitate von Quellen (wer zitiert wen?).  
+  
+  - [Explainpaper](https://www.explainpaper.com): Zusammenfassung von Artikeln. Vorsicht, ist halt KI, s.o.  
+  
+  - [ChatPDF](https://www.chatpdf.com): PDF hochladen, Fragen dazu stellen, erklärt kriegen. Vorsicht, ist halt KI. s.o.  
+  
 
 # Bewertungsblatt
 - Die Arbeit ist eine Prüfungsleistung, die durch die Hochschule zu benoten ist. Das ist Voraussetzung dafür, dass Ihr Studiengang akkreditiert ist (und Sie einen Abschluss erhalten).
