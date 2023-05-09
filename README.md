@@ -65,6 +65,7 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
 - Führen Sie nur Fakten aus Quellen an, die Sie auch verstanden haben. Wenn Ihnen etwas unklar ist, fragen Sie bei Ihrem betrieblichen Betreuer (oder mir, falls ich Ihr Betreuer von Seiten der Hochschule bin) nach.
 - Wenn Sie schon nicht in die Bibliothek zur Suche von Büchern gehen wollen: Verwenden Sie doch bitte nicht die normale Google Suche. Es gibt eine [Spezialsuche für wissenschaftliche Arbeiten von Google](https://scholar.google.de). Dann bleibt so ein Unsinn wie xxx-insider.de außen vor.
 - Verdammt nochmal, fangen Sie doch bei der Einleitung direkt mit Quellenarbeit an. Gerade dort. Da schreiben Sie ja in den seltensten Fällen irgendwas Neues (das von Ihnen stammt). Insofern muss da quasi jeder Satz mit einer Quellenangabe hinterlegt sein (oder zumindest jede Aussage, die sich ggfs. ja auch auf mehrere Sätze verteilen kann).
+- "Das sind doch Sachen, die ich einfach so weiß. Muss ich die belegen?". Klar, ich weiß auch, dass die Erde eine Scheibe ist. Nur belegen kann ich es nicht. Und da haben wir das Problem. Also suchen Sie nach fundierten Quellen für Ihre Aussagen!
 
 # Fußnoten
 - Doppelte Fußnoten am Ende eines Satzes fassen wir zu einer einzigen zusammen.
