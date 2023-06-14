@@ -80,6 +80,10 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
 # Formalitäten
 - Alles, was Sie an formalen Voraussetzungen (Anzahl Exemplare,...) wissen müssen, ist auf den [Seiten der DHGE zur Anfertigung von Arbeiten](https://www.dhge.de/DHGE/Fuer_Studierende/Hinweise-zur-Anfertigung-von-Arbeiten.html) zu finden.
 
+# Sorgfalt
+- Eigentlich schon alles gesagt in den Abschnitten zuvor. Aber: LESEN SIE DAS DING EINMAL AUSGEDRUCKT DURCH! VOLL ANALOG UND SO. Dann fangen Sie viele der oben angemerkten Punkte ab (Grafiken/Rechtschreibung/Grammatik,...). 
+
+
 # Verlängerung
 Die Bachelorarbeit fertigen Sie kurz vor dem Ende Ihres Studiums an. Die Betonung liegt auf kurz. Was passiert, wenn sich die Bearbeitung des Themas verzögert, können Sie sich ja vorstellen. Eine Verlängerung der Bearbeitungszeit ist daher nicht vorgesehen.   
 Ggfs. (z.B. aus gesundheitlichen Gründen) kann eine Verlängerung dennoch gewährt werden. Dafür ist ein vom betrieblichen Betreuer unterzeichnetes Schreiben (keine reine Mail, kann aber gescannt und vorab per Mail gesendet werden) an den Studienrichtungsleiter erforderlich. Und bitte: Stichhaltige Gründe. Sowas nach dem Motto "die Hardware kam halt nicht..." reicht nicht aus. Und denken Sie an die Urlaubszeit!
