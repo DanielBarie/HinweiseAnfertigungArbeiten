@@ -28,6 +28,11 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
 - Lesen Sie die linke Spalte des Bewertungsblattes. Dort sind die einzelnen Punkte aufgezählt, die für die Bewertung maßgeblich sind. Auch wenn Ihr betrieblicher Betreuer sagt, dass Sie etwas anderes tun sollten ("lassen Sie mal die kritische Bewertung weg..."): nein.
 - Ich setze meine Unterschrift in der Eigenschaft als Angehöriger der Hochschule unter das Bewertungsblatt und stehe damit für die Korrektheit der Benotung entsprechend der Punkte auf dem Bewertungsblatt.
 
+# Gliederung
+- Offensichtlich sollte eine Gliederung in Einleitung, Hauptteil und Fazit/Schluss zu erkennen sein.
+- Abbildungs-/Tabellenverzeichnisse erleichtern dem Lesern die Navigation und sind daher auch sinnvoll.
+- Wenn ein Abschnitt weniger als eine Seite hat ist es oft nicht sinnvoll, dafür eine Überschrift zu haben. Schon gar nicht für eine Aufnahme ins Inhaltsverzeichnis. Das führt sonst oft zu Nummern wie "3.4.10". Und mit so vielen Nummern wird die Navigation dann wieder erschwert.
+
 # Grafiken
 - Benötigen eine Auflösung von mindestens 300dpi um für den Druck geeignet zu sein.
 - Sollten nicht als JPG vorliegen, denn das erhöht die Gefahr durch zu starke Kompression Details zu verlieren. Versuchen Sie es mit PNG oder noch besser einem Vektorformat wie SVG. Bei selbst erstellten Grafiken haben Sie das ja in der Hand.
