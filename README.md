@@ -44,13 +44,14 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
 - Screenshots haben bei den heutigen Anzeigen mit hoher Auflösung die Angewohnheit recht kleine Schriftbilder aufzuweisen. Das ist dann schwer lesbar. Und noch schwerer lesbar sind die beknackten Dark Mode Screenshots. Himmel. Nur weil etwas hip ist, heißt das nicht, dass es gut ist. Stellen Sie für Screenshots doch bitte größere Schrift unter Windows ein und machen Sie den Dark Mode aus.
 - Bei Screenshots dürfen Sie ruhig die relevanten Bereiche kennzeichnen (Box drum, am besten in Farbe). Oder den relevanten Bereich nochmals "zoomen".
 
-# Rechtschreibung und Grammatik
+# Rechtschreibung und Grammatik, Stil
 - Für eine Eins müssen Rechtschreibung und Grammatik fehlerfrei sein. Keine Sorge, dafür gibt es Hilfsmittel in Word, die Sie einfach nur anschalten müssen. 
 - Scheuen Sie sich nicht, Ihre Arbeit einem Kommilitonen/in zur Lektüre zu geben. Da erhalten Sie wertvolle Hinweise.
 - Die Ich-Form ist sehr, sehr unüblich.
 - Sätze wie Hammerschläge. Was meine ich damit? Lassen Sie Füllwörter weg. Jeder Satz sollte eine wichtige Aussage beinhalten. Wenn nicht, ist er überflüssig und kann gestrichen werden.
 - Abkürzungen: Begriffe schreiben Sie bei der ersten Erwähnung aus und stellen die Abkürzung danach in Klammern. Zusätzlich nehmen Sie die Abkürzung in der Abkürzungsverzeichnis auf. ("Das Internet Protocol (IP)...."). Damit hat der Leser bei der Lektüre die Abkürzung vor Augen. Falls er sie trotzdem bis zur nächsten Erwähnung vergessen haben sollte gibt es das Abkürzungsverzeichnis zum Nachschlagen.
 - Prüfen Sie auf Vergangenheitsformen ("dann musste ... erledigt werden..."): Wenn Sie diese finden ist das oft ein Hinweis auf einen Erzählstil. Das ist für eine wissenschaftliche Arbeit auch sehr unüblich. Also weg damit. Lieber eine Darstellung der Herausforderungen und dann können Sie erklären, wie Sie diese überwunden haben. Das ist ja Ihre Leistung.
+- Dinger wie "nach Rücksprache mit dem Kollegen Sandstrand wurde beschlossen.." sind dem Stil einer wiss. Arbeit nicht angemessen. (Und überdies schon durch Beachtung des obenstehenden Punkts zu vermeiden.)
 
 # Argumentationsketten
 - Ein bewährtes Schema ist der Dreiklang aus "Darstellen", "Bewerten" und "Folgern". Was soll das bedeuten? Am Beispiel einer Modellbildung:  Darstellen ("das Modell ist linear und hat nur die Widerstandswerte der Heißleiter als Eingangsgrößen") - Bewerten ("weil wir weder Geometrie noch Zeiteinflüsse abbilden ist das doof" - Folgern ("das müssen wir anders machen, ich habe da eine Lösung in dieser Arbeit").
