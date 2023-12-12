@@ -21,6 +21,9 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
   - [Explainpaper](https://www.explainpaper.com): Zusammenfassung von Artikeln. Vorsicht, ist halt KI, s.o.  
   
   - [ChatPDF](https://www.chatpdf.com): PDF hochladen, Fragen dazu stellen, erklärt kriegen. Vorsicht, ist halt KI. s.o.
+
+  - [Perplexity AI](https://www.perplexity.ai): KI-Unterstützte Quellensuche.
+    
 - Und noch so als Hinweis: Auf die Frage hin, wie eine(r) der Studierenden mit den Antworten von ChatGPT umgeht, kam als O-Ton die Antowrt ```Ich habe da so einen Bullshit-Detektor...```. Da ist mein Bullshit-Detektor aber mächtig angesprungen...
   
 
