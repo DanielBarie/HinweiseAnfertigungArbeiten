@@ -24,7 +24,7 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
 
   - [Perplexity AI](https://www.perplexity.ai): KI-Unterstützte Quellensuche.
     
-- Und noch so als Hinweis: Auf die Frage hin, wie eine(r) der Studierenden mit den Antworten von ChatGPT umgeht, kam als O-Ton die Antowrt ```Ich habe da so einen Bullshit-Detektor...```. Da ist mein Bullshit-Detektor aber mächtig angesprungen...
+- Und noch so als Hinweis: Auf die Frage hin, wie eine(r) der Studierenden mit den Antworten von ChatGPT umgeht, kam als O-Ton die Antwort ```Ich habe da so einen Bullshit-Detektor...```. Da ist mein Bullshit-Detektor aber mächtig angesprungen...
   
 
 # Bewertungsblatt
