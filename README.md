@@ -71,16 +71,18 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
 
 # Quellen
 - Seiten wie "ip-insider.de" und "security-insider.de" sind reine Werbung (schauen Sie mal ins Impressum). Damit fallen sie als Quellen aus. Prüfen Sie Ihre Quellen.
-- Sekundärliteratur ist doof. Wenn Sie zu Grundlagen des Internet zitieren, nehmen Sie doch einfach mal die Dokumente der IETF und nicht das "Elektronik Kompendium".- 
+- Sekundärliteratur ist doof. Wenn Sie zu Grundlagen des Internet zitieren, nehmen Sie doch einfach mal die Dokumente der IETF und nicht das "Elektronik Kompendium".
 - Behauptungen ("50% aller Unternehmen wurden bereits Opfer einer Cyber-Attacke...") bleiben einfach nur Behauptungen wenn sie nicht durch eine Quelle hinterlegt sind.
 - Führen Sie nur Fakten aus Quellen an, die Sie auch verstanden haben. Wenn Ihnen etwas unklar ist, fragen Sie bei Ihrem betrieblichen Betreuer (oder mir, falls ich Ihr Betreuer von Seiten der Hochschule bin) nach.
 - Wenn Sie schon nicht in die Bibliothek zur Suche von Büchern gehen wollen: Verwenden Sie doch bitte nicht die normale Google Suche. Es gibt eine [Spezialsuche für wissenschaftliche Arbeiten von Google](https://scholar.google.de). Dann bleibt so ein Unsinn wie xxx-insider.de außen vor.
 - Eine Übersicht zu elektronisch verfügbaren Zeitschriften/Journals in bestimmten Bibliotheken liefert die [Elektronische Zeitschriftenbibliothek](https://ezb.ur.de/fl.phtml?bibid=BBG&colors=7&lang=de)
 - Verdammt nochmal, fangen Sie doch bei der Einleitung direkt mit Quellenarbeit an. Gerade dort. Da schreiben Sie ja in den seltensten Fällen irgendwas Neues (das von Ihnen stammt). Insofern muss da quasi jeder Satz mit einer Quellenangabe hinterlegt sein (oder zumindest jede Aussage, die sich ggfs. ja auch auf mehrere Sätze verteilen kann).
+- Die zitierten Bücher, Artikel, etc... haben ja in der Regel mehr als eine Seite. Wer will sich schon durch ein ganzes Buch quälen, nur einen von Ihnen benutzten Gedanken zu finden? Also fügen wir i.d.R. die Seitenzahl bei einer Quellenangabe hinzu. Wenn Sich der Gedankengang über zwei Seiten zieht, kommt hinter die Seitenzahl ein `f`. Mehr als zwei Seiten werden mit einem `ff` gekennzeichnet. Zugegeben, Websites haben i.d.R. keine Seitenzahlen. Wie wäre es mit einem PDF-Druck der Website, der mit Seitenzahlen versehen ist und als elektronische Quelle archiviert beigefüg wird?
 - "Das sind doch Sachen, die ich einfach so weiß. Muss ich die belegen?". Klar, ich weiß auch, dass die Erde eine Scheibe ist. Nur belegen kann ich es nicht. Und da haben wir das Problem. Also suchen Sie nach fundierten Quellen für Ihre Aussagen!
 
 # Fußnoten
 - Doppelte Fußnoten am Ende eines Satzes fassen wir zu einer einzigen zusammen.
+- Fußnoten zur Quellenangabe: Dort wird die Nummer der Seite angegeben, auf der Sie die zu belegende Aussage entnommen haben. 
 
 # Abwesenheiten und Urlaub
 - Die Erstellung der Bachelorarbeit fällt in die Sommerzeit. Da kann es schon passieren, dass Betreuer und Ansprechpartner im Urlaub sind. Lassen Sie also einen Puffer für solche Fälle.
