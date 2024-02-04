@@ -72,6 +72,7 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
 # Quellen
 - Seiten wie "ip-insider.de" und "security-insider.de" sind reine Werbung (schauen Sie mal ins Impressum). Damit fallen sie als Quellen aus. Prüfen Sie Ihre Quellen.
 - Sekundärliteratur ist doof. Wenn Sie zu Grundlagen des Internet zitieren, nehmen Sie doch einfach mal die Dokumente der IETF und nicht das "Elektronik Kompendium".
+- Wie erfolgreiche Menschen/Wissenschaftler mit Quellen umgehen als Zitat: "Şahin zuckt mit den Achseln und schaut seine Frau an: »Das machen wir eigentlich immer so, wir lesen nur Primärliteratur und Originalquellen.«" [Spiegel Online, 04.02.2024](https://www.spiegel.de/wirtschaft/mit-ki-gegen-krebs-wie-biontech-zum-zweiten-mal-medizingeschichte-schreiben-will-a-49e25377-fe41-4e5a-8706-5272f27ee47d)
 - Behauptungen ("50% aller Unternehmen wurden bereits Opfer einer Cyber-Attacke...") bleiben einfach nur Behauptungen wenn sie nicht durch eine Quelle hinterlegt sind.
 - Führen Sie nur Fakten aus Quellen an, die Sie auch verstanden haben. Wenn Ihnen etwas unklar ist, fragen Sie bei Ihrem betrieblichen Betreuer (oder mir, falls ich Ihr Betreuer von Seiten der Hochschule bin) nach.
 - Wenn Sie schon nicht in die Bibliothek zur Suche von Büchern gehen wollen: Verwenden Sie doch bitte nicht die normale Google Suche. Es gibt eine [Spezialsuche für wissenschaftliche Arbeiten von Google](https://scholar.google.de). Dann bleibt so ein Unsinn wie xxx-insider.de außen vor.
