@@ -47,6 +47,7 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
 - Die Sprache des Ingenieurs ist die Zeichnung. Quellcode wird mit einem Flussdiagramm viel verständlicher. Das gilt auch für Prozessschritte. Auch Interaktionen zwischen Komponenten einer Schaltung / eines Softwarepakets lassen sich durch ein Diagramm ohne viele Worte darstellen.
 - Screenshots haben bei den heutigen Anzeigen mit hoher Auflösung die Angewohnheit recht kleine Schriftbilder aufzuweisen. Das ist dann schwer lesbar. Und noch schwerer lesbar sind die beknackten Dark Mode Screenshots. Himmel. Nur weil etwas hip ist, heißt das nicht, dass es gut ist. Stellen Sie für Screenshots doch bitte größere Schrift unter Windows ein und machen Sie den Dark Mode aus.
 - Bei Screenshots dürfen Sie ruhig die relevanten Bereiche kennzeichnen (Box drum, am besten in Farbe). Oder den relevanten Bereich nochmals "zoomen".
+- Lesetipp zur Gestaltung von Diagrammen / Darstellung von Information: „Show Me The Numbers“  und „Information Dashboard Design“ von Stephen Few.
 
 # Rechtschreibung und Grammatik, Stil
 - Für eine Eins müssen Rechtschreibung und Grammatik fehlerfrei sein. Keine Sorge, dafür gibt es Hilfsmittel in Word, die Sie einfach nur anschalten müssen. 
@@ -82,8 +83,9 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
 - "Das sind doch Sachen, die ich einfach so weiß. Muss ich die belegen?". Klar, ich weiß auch, dass die Erde eine Scheibe ist. Nur belegen kann ich es nicht. Und da haben wir das Problem. Also suchen Sie nach fundierten Quellen für Ihre Aussagen!
 
 # Fußnoten
-- Doppelte Fußnoten am Ende eines Satzes fassen wir zu einer einzigen zusammen.
-- Fußnoten zur Quellenangabe: Dort wird die Nummer der Seite angegeben, auf der Sie die zu belegende Aussage entnommen haben. 
+- Doppelte Fußnoten (am Ende eines Satzes) fassen wir zu einer einzigen zusammen.
+- Fußnoten zur Quellenangabe: Dort wird die Nummer der Seite angegeben, auf der Sie die zu belegende Aussage entnommen haben.
+- Verweise sollten sich nicht am Ende eines Satzes/Absatzes stapeln. Fügen Sie diese an der Stelle ein, wo Sie die für den Gedankengang wichtige Quelle verwenden.
 
 # Abwesenheiten und Urlaub
 - Die Erstellung der Bachelorarbeit fällt in die Sommerzeit. Da kann es schon passieren, dass Betreuer und Ansprechpartner im Urlaub sind. Lassen Sie also einen Puffer für solche Fälle.
