@@ -5,7 +5,7 @@ Bei der Lektüre von Projekt- und Bachelorarbeiten fallen mir regelmäßig ident
 Vorweg der Verweis auf die Seite der DHGE mit den [Hinweisen zur Erstellung von Projekt-/Studien-/Bachelorarbeiten](https://www.dhge.de/DHGE/Hochschule/Dokumente-und-Formulare\-\-\-Downloads/Projekt--und-Studienarbeiten.html)
 
 # AI / KI Tools
-Aus meiner Sicht: Nutzen Sie die AI / KI Tools. 
+Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Aber:
 - Diese Werkzeuge werden Ihre Arbeit nicht für Sie schreiben. Aber wahrscheinlich wird Ihr Text dadurch besser. z.B. weil Sie damit die Trümmerbrüche von Sätzen, die ich manchmal sehe, umformulieren können. Oder die Kommasetzung deutlich verbessern. Oder oder oder... im Endeffekt sind das Werkzeuge wie ein Taschenrechner oder die Rechtschreibkorrektur von Word. 
 - Die geistige Leistung muss noch immer von Ihnen kommen. Aber Sie können sich auch das wichtige (Ihre Ideen) konzentrieren. Hinweis: Kollegen mögen das vielleicht anders sehen...
 - Bei schlampiger Arbeit (Quellen / Abbildungen / dumme Ideen) helfen Ihnen die Tools auch nicht weiter. Deswegen ist auch die Quellenarbeit so wichtig!
@@ -28,7 +28,9 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools.
   
 - Wenn Sie Antworten auf z.B. Praktikumsfragen aus ChatGPT (o.ä.) rauskopieren wird Ihr Lerneffekt eher gering sein.
 
-- Warum Sie auch über die Verwendung von GenAI Tools nachdenken sollen: Manchmal passt es vom Niveau her einfach nicht zu Ihren übrigen Leistungen. Und das ist dann unglaubwürdig (sieht man auch bei Gericht so): https://www.faz.net/aktuell/karriere-hochschule/erstes-urteil-zu-chatgpt-an-hochschulen-student-benutzte-ki-fuer-bewerbung-19564795.html 
+- Warum Sie auch über die Verwendung von GenAI Tools nachdenken sollen: Manchmal passt es vom Niveau her einfach nicht zu Ihren übrigen Leistungen. Und das ist dann unglaubwürdig (sieht man auch bei Gericht so): https://www.faz.net/aktuell/karriere-hochschule/erstes-urteil-zu-chatgpt-an-hochschulen-student-benutzte-ki-fuer-bewerbung-19564795.html
+
+- Und das Wichtigste: Geben Sie die Nutzung und die Art der Nutzung (z.B. Unterstützung bei Formulierung) an. Sonst stehen Sie ratzfatz unter Plagiatsverdacht und die Arbeit wird als ungenügend gewertet (siehe vorherigen Punkt).
   
 
 # Bewertungsblatt
