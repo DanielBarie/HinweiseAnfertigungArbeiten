@@ -2,7 +2,7 @@
 
 Bei der Lektüre von Projekt- und Bachelorarbeiten fallen mir regelmäßig identische Sachverhalte auf. Daher möchte ich an dieser Stelle eine kleine Zusammenstellung (ohne Anspruch auf Vollständigkeit) von Hinweisen zur Erstellung solcher Arbeiten geben.
 
-Vorweg der Verweis auf die Seite der DHGE mit den [Hinweisen zur Erstellung von Projekt-/Studien-/Bachelorarbeiten](https://www.dhge.de/DHGE/Hochschule/Dokumente-und-Formulare\-\-\-Downloads/Projekt--und-Studienarbeiten.html)
+Vorweg der Verweis auf die Seite der DHGE mit den [Hinweisen zur Erstellung von Projekt-/Studien-/Bachelorarbeiten](https://www.dhge.de/DHGE/Hochschule/Dokumente-und-Formulare\-\-\-Downloads/Projekt--und-Studienarbeiten.html).
 
 # AI / KI Tools
 Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Aber:
