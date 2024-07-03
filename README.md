@@ -103,7 +103,7 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Aber:
 - Als Beispiel (umschrieben, um niemanden an den Pranger zu stellen, der Sinn ist aber erhalten): "Wir implementieren keine Verschlüsselung und wechselseitige Authentifizierung der Kommunikationspartner weil das eine Neuzulassung unseres Produkts verursacht." Das war in einer Arbeit, die sich mit IT-Sicherheit beschäftigt hat. Geht's noch??? 
 
 # Formalitäten
-- Alles, was Sie an formalen Voraussetzungen (Anzahl Exemplare,...) wissen müssen, ist auf den [Seiten der DHGE zur Anfertigung von Arbeiten](https://www.dhge.de/DHGE/Fuer_Studierende/Hinweise-zur-Anfertigung-von-Arbeiten.html) zu finden.
+- Alles, was Sie an formalen Voraussetzungen (Anzahl Exemplare,...) wissen müssen, ist auf den [Seiten der DHGE zur Anfertigung von Arbeiten](https://www.dhge.de/DHGE/Hochschule/Dokumente-und-Formulare---Downloads/Projekt--und-Studienarbeiten.html) zu finden.
 
 # Sorgfalt
 - Eigentlich schon alles gesagt in den Abschnitten zuvor. Aber: LESEN SIE DAS DING EINMAL AUSGEDRUCKT DURCH! VOLL ANALOG UND SO. Dann fangen Sie viele der oben angemerkten Punkte ab (Grafiken/Rechtschreibung/Grammatik,...). 
