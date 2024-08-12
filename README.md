@@ -26,11 +26,11 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Aber:
     
 - Und noch so als Hinweis: Auf die Frage hin, wie eine(r) der Studierenden mit den Antworten von ChatGPT umgeht, kam als O-Ton die Antwort ```Ich habe da so einen Bullshit-Detektor...```. Da ist mein Bullshit-Detektor aber mächtig angesprungen...
   
-- Wenn Sie Antworten auf z.B. Praktikumsfragen aus ChatGPT (o.ä.) rauskopieren wird Ihr Lerneffekt eher gering sein.
+- Wenn Sie Antworten (z.B. auch auf Praktikumsfragen) aus ChatGPT (o.ä.) rauskopieren wird Ihr Lerneffekt eher gering sein.
 
 - Warum Sie auch über die Verwendung von GenAI Tools nachdenken sollen: Manchmal passt es vom Niveau her einfach nicht zu Ihren übrigen Leistungen. Und das ist dann unglaubwürdig (sieht man auch bei Gericht so): https://www.faz.net/aktuell/karriere-hochschule/erstes-urteil-zu-chatgpt-an-hochschulen-student-benutzte-ki-fuer-bewerbung-19564795.html
 
-- Und das Wichtigste: Geben Sie die Nutzung und die Art der Nutzung (z.B. Unterstützung bei Formulierung) an. Sonst stehen Sie ratzfatz unter Plagiatsverdacht und die Arbeit wird als ungenügend gewertet (siehe vorherigen Punkt).
+- Und das Wichtigste: Geben Sie die Nutzung und die Art der Nutzung (z.B. Unterstützung bei Formulierung) an. Sonst stehen Sie ratzfatz unter Plagiatsverdacht und die Arbeit wird als ungenügend gewertet (siehe vorherigen Punkt). Hilfreich ist beispielsweise anzugeben welches Modell Sie genutzt haben und wie Ihr Prompt lautete.
   
 
 # Bewertungsblatt
