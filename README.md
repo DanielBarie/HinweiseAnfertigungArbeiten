@@ -64,6 +64,7 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Aber:
 - Abkürzungen: Begriffe schreiben Sie bei der ersten Erwähnung aus und stellen die Abkürzung danach in Klammern. Zusätzlich nehmen Sie die Abkürzung in der Abkürzungsverzeichnis auf. ("Das Internet Protocol (IP)...."). Damit hat der Leser bei der Lektüre die Abkürzung vor Augen. Falls er sie trotzdem bis zur nächsten Erwähnung vergessen haben sollte gibt es das Abkürzungsverzeichnis zum Nachschlagen.
 - Prüfen Sie auf Vergangenheitsformen ("dann musste ... erledigt werden..."): Wenn Sie diese finden ist das oft ein Hinweis auf einen Erzählstil. Das ist für eine wissenschaftliche Arbeit auch sehr unüblich. Also weg damit. Lieber eine Darstellung der Herausforderungen und dann können Sie erklären, wie Sie diese überwunden haben. Das ist ja Ihre Leistung.
 - Dinger wie "nach Rücksprache mit dem Kollegen Sandstrand wurde beschlossen.." sind dem Stil einer wiss. Arbeit nicht angemessen. (Und überdies schon durch Beachtung des obenstehenden Punkts zu vermeiden.)
+- Und im Übrigen haben auch bekannte Personen aus der IT eine Meinung zu gutem Stil/Grammatik: Wir verwenden keine Passivkonstrukte. [Linus Torvalds zu Commit-Messages](https://www.theregister.com/2024/10/08/linus_torvalds_grammar_complaint/)
 
 # Argumentationsketten
 - Ein bewährtes Schema ist der Dreiklang aus "Darstellen", "Bewerten" und "Folgern". Was soll das bedeuten? Am Beispiel einer Modellbildung:  Darstellen ("das Modell ist linear und hat nur die Widerstandswerte der Heißleiter als Eingangsgrößen") - Bewerten ("weil wir weder Geometrie noch Zeiteinflüsse abbilden ist das doof" - Folgern ("das müssen wir anders machen, ich habe da eine Lösung in dieser Arbeit").
@@ -107,7 +108,8 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Aber:
 - Alles, was Sie an formalen Voraussetzungen (Anzahl Exemplare,...) wissen müssen, ist auf den [Seiten der DHGE zur Anfertigung von Arbeiten](https://www.dhge.de/DHGE/Hochschule/Dokumente-und-Formulare---Downloads/Projekt--und-Studienarbeiten.html) zu finden.
 
 # Sorgfalt
-- Eigentlich schon alles gesagt in den Abschnitten zuvor. Aber: LESEN SIE DAS DING EINMAL AUSGEDRUCKT DURCH! VOLL ANALOG UND SO. Dann fangen Sie viele der oben angemerkten Punkte ab (Grafiken/Rechtschreibung/Grammatik,...). 
+- Eigentlich schon alles gesagt in den Abschnitten zuvor. Aber: LESEN SIE DAS DING EINMAL AUSGEDRUCKT DURCH! VOLL ANALOG UND SO. Dann fangen Sie viele der oben angemerkten Punkte ab (Grafiken/Rechtschreibung/Grammatik,...).
+- Eine Eins ist eine sehr gute Note. Fehler auf dem Titelblatt (z.B. Matrikelnummer falsch, Tippfehler im Titel, unvollständig ausgefüllt,...)? Das ist nicht sehr gut. Also keine Eins. So einfach ist das. Und das gilt auch für den ganzen Rest der Dinge, die oben schon angesprochen sind.
 
 
 # Verlängerung
