@@ -5,6 +5,7 @@ Bei der Lektüre von Projekt- und Bachelorarbeiten fallen mir regelmäßig ident
 Vorweg der Verweis auf die Seite der DHGE mit den [Hinweisen zur Erstellung von Projekt-/Studien-/Bachelorarbeiten](https://www.dhge.de/DHGE/Hochschule/Dokumente-und-Formulare\-\-\-Downloads/Projekt--und-Studienarbeiten.html).
 
 # AI / KI Tools
+Vorweg: Im Zeitalter der KI müssen Sie im Vergleich mit der KI einen Mehrwert erbringen. Kann ich diesen nicht erkennen, ist die Arbeit nicht ausreichend.
 Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Aber:
 - Die Prüfungsordnung der Hochschule sieht das anders.
 - Diese Werkzeuge werden Ihre Arbeit nicht für Sie schreiben. Aber wahrscheinlich wird Ihr Text dadurch besser. z.B. weil Sie damit die Trümmerbrüche von Sätzen, die ich manchmal sehe, umformulieren können. Oder die Kommasetzung deutlich verbessern. Oder oder oder... im Endeffekt sind das Werkzeuge wie ein Taschenrechner oder die Rechtschreibkorrektur von Word. 
