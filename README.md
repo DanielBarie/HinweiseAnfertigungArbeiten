@@ -82,6 +82,17 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Aber:
 # Quellen
 - Gleich mal vorweg: Sie haben (in Thüringen und anderen Bundesländern) eine Seminarfacharbeit fürs Abitur geschrieben. Ich habe mir das mal angesehen. Dazu zitiere ich aus einer Handreichung des Thüringer Instituts für Lehrerfortbildung, Lehrplanentwicklung und Medien (Thillm): "Ein zentrales Kriterium für die Qualität wissenschaftlicher Arbeiten ist der korrekte Nachweis der verwendeten Literaturquellen." (https://www.schulportal-thueringen.de/tip/resources/medien/37587?dateiname=Materialien+198+-+Inhalt.pdf, S. 9). Ausreden wie "Das habe ich noch nie so gelernt" SIND ALSO EINFACH NUR PEINLICH.
 - Seiten wie "ip-insider.de" und "security-insider.de" sind reine Werbung (schauen Sie mal ins Impressum). Damit fallen sie als Quellen aus. Prüfen Sie Ihre Quellen. Warnung: Wenn ich eine einzige dieser sogenannten Quellen finde, fallen Sie durch.
+- Ich verweise gerne auf einen [Leitfaden der Uni Trier](https://www.uni-trier.de/fileadmin/fb4/prof/INF/WI1/Fuer_schriftliche_Ausarbeitungen/Leitfaden_fuer_wissenschaftliche_Arbeiten.pdf), Abschnitt Zitierfähigkeit: ```Grundsätzlich sind Quellen wie Publikumszeitschriften, Vorlesungsskripte, Foren, Wikis (Beispiel:
+„wikipedia.de“), Blogs oder sonstige Internetseiten nicht zitierwürdige Informationsquellen. Sollte die
+Verwendung einer nicht zitierfähigen Quelle nicht vermeidbar sein, so ist dies in einer Anmerkung
+deutlich zu machen. Gerade Internetquellen fehlt die Nachprüfbarkeit. Aufgrund der Bedeutung, die
+in manchen Forschungsgebieten Internetveröffentlichungen beigemessen wird, kann, wenn die
+Informationen nicht als konventionelle Veröffentlichung vorliegen, diese Form der Quelle bei einem
+entsprechenden Nutzen herangezogen werden. Um die Nachprüfbarkeit zu gewährleisten, kann auch
+ein entsprechender Ausdruck der Quelle im Anhang aufgeführt werden. Bei sehr großen
+Datensammlungen können diese auf CD oder Speicherkarte mit eingereicht werden. Dies gilt ebenfalls
+für nicht allgemein zugängliche Quellen wie Studien, die nur einem kleinen Personenkreis zugänglich
+sind.```
 - Sekundärliteratur ist doof. Wenn Sie zu Grundlagen des Internet zitieren, nehmen Sie doch einfach mal die Dokumente der IETF und nicht das "Elektronik Kompendium".
 - Wie erfolgreiche Menschen/Wissenschaftler mit Quellen umgehen als Zitat: "Şahin zuckt mit den Achseln und schaut seine Frau an: »Das machen wir eigentlich immer so, wir lesen nur Primärliteratur und Originalquellen.«" [Spiegel Online, 04.02.2024](https://www.spiegel.de/wirtschaft/mit-ki-gegen-krebs-wie-biontech-zum-zweiten-mal-medizingeschichte-schreiben-will-a-49e25377-fe41-4e5a-8706-5272f27ee47d)
 - Behauptungen ("50% aller Unternehmen wurden bereits Opfer einer Cyber-Attacke...") bleiben einfach nur Behauptungen wenn sie nicht durch eine Quelle hinterlegt sind.
