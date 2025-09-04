@@ -75,7 +75,7 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Aber:
 - Das eigene Tun/die eigene Leistung muss in einen Kontext gerückt sein. Leitfragen: "Warum habe ich das so gemacht?", "Was sind die Vor-/Nachteile meiner Lösung?", "Wie hätte man das Problem sonst lösen können? Was sind die Alternativen?", "Warum haben wir die Alternativen nicht gewählt?", "Was bleibt noch an Arbeit zu tun? Wo sind Anknüpfungspunkte für weitere Arbeiten?"
 
 # Eigene Leistung
-- Dinge, die ich im Internet oder sonstwo nachlesen kann sind für Ihre Arbeit nicht wichtig. 70% der Seiten für Wiedergabe bekannter Sachverhalte und 30% für die eigene Leistung sind bestenfalls eine Drei. Andersrum (70% eigene Leistung und 30% Einleitung/Schluss) ist es angemessen.  
+- Dinge, die ich im Internet oder sonstwo nachlesen kann sind für Ihre Arbeit nicht wichtig. 70% der Seiten für Wiedergabe bekannter Sachverhalte und 30% für die eigene Leistung sind nicht ausreichend (durchgefallen!). Andersrum (70% eigene Leistung und 30% Einleitung/Schluss) ist es angemessen.  
 - Am Ende muss der Text nochmal bluten. Gehen Sie kritisch an Ihr Werk und fragen Sie, ob das was Sie gerade lesen wirklich in Ihrer Arbeit stehen muss. (Siehe auch "Sätze wie Hammerschläge")
 - Sätze wie "Der Server braucht eine USV und ist deswegen an einer orangenen Steckdose angeschlossen": Wen interessiert das? Und wenn es wirklich wirklich wichtig ist (weil beispielsweise bei Ihnen im Betrieb zwei verschiede Farben für verschiedene USV Kreise verwendet werden und der Server aus Lastgründen unbedingt an den einen und nicht an den anderen muss): Dann sollten Sie das auch mit Quellen ausführen. Wenn nicht: weg damit.
 
