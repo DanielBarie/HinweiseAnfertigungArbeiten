@@ -34,6 +34,10 @@ Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Aber:
 
 - Und das Wichtigste: Geben Sie die Nutzung und die Art der Nutzung (z.B. Unterstützung bei Formulierung) an. Sonst stehen Sie ratzfatz unter Plagiatsverdacht und die Arbeit wird als ungenügend gewertet (siehe vorherigen Punkt). Hilfreich ist beispielsweise anzugeben welches Modell Sie genutzt haben und wie Ihr Prompt lautete.
   
+# Themenstellung
+Mit Ihrer Bacheolorarbeit sollen Sie zeigen, dass Sie in der Lage sind, eine wissenschaftliche Fragestellung selbstständig und methodisch fundiert zu bearbeiten. Ihre Themenstellung muss also einen wissenschaftlichen Anspruch enthalten. 
+Wie es nicht sein sollte: "Migration der bestehenden Lösung auf <festgelegte Lösung>"
+Warum? Weil damit der Eindruck aufkommt, es handle sich um eine reine Projektdokumentation mit einem bereits vorgegebenen Lösungsweg. Gerade den Lösungsweg sollen Sie ja erarbeiten. Dabei gilt: Eine Bachelorarbeit muss keine „bahnbrechende Forschung“ leisten. Aber sie sollte einen nachvollziehbaren Beitrag leisten: z. B. eine Evaluation, einen Vergleich, eine Fallstudie, ein Konzept oder ein begründetes Migrationsmodell.
 
 # Bewertungsblatt
 - Die Arbeit ist eine Prüfungsleistung, die durch die Hochschule zu benoten ist. Das ist Voraussetzung dafür, dass Ihr Studiengang akkreditiert ist (und Sie einen Abschluss erhalten).
