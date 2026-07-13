@@ -6,12 +6,11 @@ Vorweg der Verweis auf die Seite der DHGE mit den [Hinweisen zur Erstellung von 
 
 # AI / KI Tools
 Vorweg: Im Zeitalter der KI müssen Sie im Vergleich mit der KI einen Mehrwert erbringen. Kann ich diesen nicht erkennen, ist die Arbeit nicht ausreichend.
-Aus meiner Sicht: Nutzen Sie die AI / KI Tools. Aber:
 - Sehen Sie sich die Prüfungsordnung / Eigenständigkeitserklärung der Hochschule an.
-- Diese Werkzeuge werden Ihre Arbeit nicht für Sie schreiben. Aber wahrscheinlich wird Ihr Text dadurch besser. z.B. weil Sie damit die Trümmerbrüche von Sätzen, die ich manchmal sehe, umformulieren können. Oder die Kommasetzung deutlich verbessern. Oder oder oder... im Endeffekt sind das Werkzeuge wie ein Taschenrechner oder die Rechtschreibkorrektur von Word. 
-- Die geistige Leistung muss noch immer von Ihnen kommen. Aber Sie können sich auch das Wichtige (Ihre Ideen) konzentrieren. Hinweis: Kollegen mögen das vielleicht anders sehen...
+- Diese Werkzeuge werden Ihre Arbeit nicht für Sie schreiben.
+- Die geistige Leistung muss noch immer von Ihnen kommen. 
 - Bei schlampiger Arbeit (Quellen / Abbildungen / dumme Ideen) helfen Ihnen die Tools auch nicht weiter. Deswegen ist auch die Quellenarbeit so wichtig!
-- Aber *VORSICHT*: Hier ist mal ein Beispiel, warum Sie bei der Benutzung aufpassen müssen (und das Denken und die Verantwortung bei Ihnen bleiben):  
+- *VORSICHT*: Hier ist mal ein Beispiel, warum Sie bei der Benutzung aufpassen müssen (Denken und Verantwortung bleiben bei Ihnen):  
 
   ![ChatGPT trifft auf Koaxkabel](chatgpt_coax.png "ChatGPT trifft auf Koaxkabel...")
 - Die Tools helfen auch bei der Quellenarbeit (dazu auch c't 11/23, S. 118 ff. über wiso-net.de zugänglich aus dem Hochschulnetz):  
